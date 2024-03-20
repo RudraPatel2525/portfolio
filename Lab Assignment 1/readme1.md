@@ -4,7 +4,7 @@
 
 * Personas
 * Priority
-+ Annotations
+* Annotations
 
 ### The extra markdown feature I used is:-
 
