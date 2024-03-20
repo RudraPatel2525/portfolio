@@ -3,7 +3,7 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://www.linkedin.com/in/rudra-patel-744ba5260/"></a>&nbsp;&nbsp;
 </p>
 
 
