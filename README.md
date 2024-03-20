@@ -25,7 +25,7 @@
  
  - <i>with Wordpress,figma,html and css </i>
  
- - 💬 Connect? lets get social 👉🏼 Sorry not that social ha ha (because I am shy) 😂 !
+ - 💬 Connect? lets get social 👉🏼 Only Linked in  <a href="https://www.linkedin.com/in/rudra-patel-744ba5260/"><img height="15px" width="15px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"></a>&nbsp;&nbsp;sorry not that social ha ha 😂 (because I am shy!).
 
 <br />
 
